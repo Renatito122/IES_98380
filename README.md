@@ -4,7 +4,7 @@ Introdução à Engenharia de Software 2021/22
 Repository with the practical labs of Introduction to Software
 
 ## Table of Contents
-* **Lab01:** Team practices for enterprise Java development (Maven, Git and Docker)
+* **Lab1:** Team practices for enterprise Java development (Maven, Git and Docker)
 
 
 ## Authors
