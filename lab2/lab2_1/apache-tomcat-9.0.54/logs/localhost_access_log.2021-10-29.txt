@@ -1,0 +1,2 @@
+127.0.0.1 - - [29/Oct/2021:12:15:41 +0100] "GET /webapp-javaee7-1.0-SNAPSHOT/MyFirstServlet?username=renato HTTP/1.1" 404 682
+127.0.0.1 - - [29/Oct/2021:12:15:41 +0100] "GET /favicon.ico HTTP/1.1" 404 682

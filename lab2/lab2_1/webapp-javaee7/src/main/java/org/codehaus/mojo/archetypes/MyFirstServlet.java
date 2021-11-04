@@ -31,7 +31,7 @@ public class MyFirstServlet extends HttpServlet {
             // Write some content
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>LoginServlet</title>");
+            out.println("<title>LoginSenullrvlet</title>");
             out.println("</head>");
             out.println("<body>");
             out.println("<h3> Hello " + username + " and welcome to tomcat server.</h3>");
