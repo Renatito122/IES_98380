@@ -1,10 +1,10 @@
-## Exercise 1 Questions
+# Exercise 1 Questions
 
-# The “UserController” class gets an instance of “userRepository” through its constructor; how is this new repository instantiated?
+## The “UserController” class gets an instance of “userRepository” through its constructor; how is this new repository instantiated?
    The UserController (specifically a creator method in userRepository) creates a new instance of userRepository
 
 
-# List the methods invoked in the “userRepository” object by the “UserController”. Where are these methods defined?
+## List the methods invoked in the “userRepository” object by the “UserController”. Where are these methods defined?
    The methods below are defined in the CrudRepository, exdended by the userRepository interface:
 	userRepository.findAll() 
 	userRepository.save() 
@@ -12,11 +12,11 @@
 	userRepository.delete()
 
 
-# Where is the databeing saved?
+## Where is the databeing saved?
    It is being saved in a H2 database.
 
 
-# Where is the rule for the “not empty” email address defined?
+## Where is the rule for the “not empty” email address defined?
    It is defined in User.java (when using the tag @NotBlank)
 
 
